@@ -108,6 +108,15 @@ NO.2. Which genre has the most produced movies?
 
 
 ![PercentageChangeinVoteAverageoftheTop5GenresinEachYear2010-2018.png](Percentage_Change_in_Vote_Average_of_the_Top_5_Genres_in_Each_Year_2010-2018.png)
+
+
+Refering to 'Percentage Change in Vote Average of the Top 5 Genres in Each Year (2010-2018).png')Invest in new and innovative storytelling techniques for the Comedy genre. The Comedy genre is still very popular, but it is also facing more competition from other genres. Microsoft new Studio could invest in new and innovative storytelling techniques to keep audiences engaged with Comedy movies.
+
+
+![release_month_to_demestic_gross.png](release_month_to_demestic_gross.png)
+
+
+films that are released in December had the highest average gross as this is the ideal time to capitalize on the holiday season and maximize box office earnings.we can also observe that the summer month of july is the second highest earner this is because it is when most schools are on break giving peolpe more time to go for a movie .
  
  
 
