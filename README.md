@@ -3,7 +3,7 @@
 <h1 style="text-align: center;">MICROSOFT NEW MOVIE STUDIO</h1>
 
 
-![film%20logo.png](attachment:film%20logo.png)
+
 
 
 ### BUSINESS PROBLEM
@@ -137,7 +137,26 @@ No.6 does the popularity of a movie/genre diretly affect how much a movie studio
 ![Correlation_Heatmap_of_Movie_Features.png](Correlation_Heatmap_of_Movie_Features.png)
 
  
- 
+## CONCLUSION 
+
+1.foucus on creating multiple high_quality films in the most popular genres to increase its chances of succes in the film indusrty.
+
+
+2.Target specific audiences by focusing on creating sub genres of the highest grossing genres.
+
+
+3.Microsoft can increase their total gross by releasing films not just in the domestic market but worldwide as well this allows films to reach a much larger audience.
+
+4.Invest in new and innovative storytelling techniques for the various genres.To keep audiences engaged with movies.
+
+
+5.Microsoft can take advantge of the  opportunity and partner with a streaming platform to produce movies in genres such as documentaries.
+
+
+6.Focus its marketing efforts on increasing the vote average of their movies, which will in turn increase their gross income.
+
+
+7.Microsoft should take opportunity to learn from the most successful studios.Study their business models to be able to develop their own business strategies that are tailored to their specific needs.
 
 
 
