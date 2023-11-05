@@ -91,7 +91,8 @@ with movie_df = pd.read_csv('movie_df.csv')these are the questions i seek to ans
 no.1. which movie studio has the highest amount of movie releases?
 
 
-![TOP10BYSTUDIOS!](Top 10 studios by Movies released.png)
+![TOP10BYSTUDIOS](/Top 10 studios by Movies released.png)
+
 
 
 
