@@ -104,6 +104,10 @@ NO.2. Which genre has the most produced movies?
 
 
 ![NumberofMoviesReleasedintheTop5GenresinEachYear20102018.png](Number_of_Movies_Released_in_the_Top_5_Genres_in_Each_Year_2010-2018.png)
+
+
+
+![PercentageChangeinVoteAverageoftheTop5GenresinEachYear2010-2018.png](Percentage_Change_in_Vote_Average_of_the_Top_5_Genres_in_Each_Year_2010-2018.png)
  
  
 
