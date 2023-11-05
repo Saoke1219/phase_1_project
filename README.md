@@ -119,6 +119,12 @@ Refering to 'Percentage Change in Vote Average of the Top 5 Genres in Each Year 
 films that are released in December had the highest average gross as this is the ideal time to capitalize on the holiday season and maximize box office earnings.we can also observe that the summer month of july is the second highest earner this is because it is when most schools are on break giving peolpe more time to go for a movie .
  
  
+ No.5. Which original language movie does best in the foreign market?
+ 
+ 
+ ![percentageforeigngross.png](percentage_foreign_gross.png)
+ 
+ 
 
 
 
