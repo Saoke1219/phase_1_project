@@ -36,7 +36,20 @@ tmdb_df
 
 ```
 
+### DATA CLEANING
 
+
+This will involve dropping columns not required,deleting duplicate rows and filling Nan value spaces to make the data sets easier to work with.
+Save the cleaned data set and Combine the two files into one dataset for analysis.
+
+
+```
+
+movie_df = tmdb_df2.merge(movie_gross_df2, on='title')
+
+movie_df
+
+```
 
 
 
