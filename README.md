@@ -98,6 +98,12 @@ no.1. which movie studio has the highest amount of movie releases?
 
 
 Universal studios has released the most amount of films,this gives them more opprtunities to earn revenue from sales.However,it his of importance to note that having the most amount of movie releases does not guarantee that a studio will be a top earner. Overall, the data suggests that the film industry is a very competitive business, but that there are opportunities for new studios to succeed by focusing on creating films in the most popular genres and by keeping their budgets under control.e other factors that play .refer to https://en.wikipedia.org/wiki/Major_film_studios for the full list of abbreveated studio names.
+
+
+NO.2. Which genre has the most produced movies?
+
+
+![NumberofMoviesReleasedintheTop5GenresinEachYear20102018.png](Number_of_Movies_Released_in_the_Top_5_Genres_in_Each_Year_2010-2018.png)
  
  
 
