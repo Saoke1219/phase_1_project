@@ -16,3 +16,15 @@ Microsoft sees all the big companies creating original video content and they wa
 
 
 Use exploratory data analysis and investigate the film industry data set to gain in depth knowledge of what makes a studio successful and in turn utilize this analysis to create actionable recommendations for Microsoft new movie studio.
+
+
+Import all the necessary libraries and import data frames
+
+```
+
+#load the data set
+movie_gross_df = pd.read_csv('bom.movie_gross.csv')
+
+movie_gross_df
+
+```
