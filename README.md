@@ -82,6 +82,16 @@ print(total_gross)
 
 ```
 
+### ANALYSIS
+
+
+with movie_df = pd.read_csv('movie_df.csv')these are the questions i seek to answer with the help of visualization graphs guided by https://pandas.pydata.org/docs/user_guide/visualization.html , https://regenerativetoday.com/a-complete-cheat-sheet-for-data-visualization-in-pandas/
+
+
+no.1. which movie studio has the highest amount of movie releases?
+
+
+
 
 
 
