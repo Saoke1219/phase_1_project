@@ -125,6 +125,14 @@ films that are released in December had the highest average gross as this is the
  ![percentageforeigngross.png](percentage_foreign_gross.png)
  
  
+English(en)-language films account for a large percentage of revenue for studios in the foreign market.English is a widely spoken language internationally.
+
+
+![Percentage_Change_in_Vote_Average_of_the_Top_5_Original_Languages_in_Each_Year_2010-2018.png](Percentage_Change_in_Vote_Average_of_the_Top_5_Original_Languages_in_Each_Year_2010-2018.png)
+
+
+ 
+ 
 
 
 
