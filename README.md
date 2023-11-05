@@ -51,6 +51,39 @@ movie_df
 
 ```
 
+Added a new column total_gross to my data frame movie.df
+
+
+```
+
+# Load the CSV file into a Pandas DataFrame
+movie_df = pd.read_csv('movie_df.csv')
+
+# Remove all commas from the foreign_gross column as some entires have a comma in them 
+movie_df['foreign_gross'] = movie_df['foreign_gross'].str.replace(',', '')
+
+# Convert the foreign_gross column to a float
+movie_df['foreign_gross'] = movie_df['foreign_gross'].astype('float')
+
+# Add the foreign column to the domestic column to make a new column called total gross
+movie_df['total_gross'] = movie_df['domestic_gross'] + movie_df['foreign_gross']
+
+# Save the changes to the DataFrame
+movie_df.to_csv('movie_df.csv', index=False)
+
+# Read the CSV file back into a DataFrame
+movie_df = pd.read_csv('movie_df.csv')
+
+# Get the total gross
+total_gross = movie_df['total_gross']
+
+# Print the total gross
+print(total_gross)
+
+```
+
+
+
 
 
 
