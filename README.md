@@ -131,6 +131,11 @@ English(en)-language films account for a large percentage of revenue for studios
 ![Percentage_Change_in_Vote_Average_of_the_Top_5_Original_Languages_in_Each_Year_2010-2018.png](Percentage_Change_in_Vote_Average_of_the_Top_5_Original_Languages_in_Each_Year_2010-2018.png)
 
 
+No.6 does the popularity of a movie/genre diretly affect how much a movie studio makes ?
+
+
+![Correlation_Heatmap_of_Movie_Features.png](Correlation_Heatmap_of_Movie_Features.png)
+
  
  
 
