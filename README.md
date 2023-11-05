@@ -28,3 +28,24 @@ movie_gross_df = pd.read_csv('bom.movie_gross.csv')
 movie_gross_df
 
 ```
+
+```
+
+tmdb_df = pd.read_csv('tmdb.movies.csv')
+tmdb_df
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
